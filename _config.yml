@@ -1,8 +1,8 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
+title: "Online resources to build topography 3D models"
 description: "Workshops and guides from the Map & Data Library, University of Toronto"
-url: "https://MDLutoronto.github.io/jtd-template" # change the slug to the repo's name ('jtd-template' in this case)
-repository: "MDLutoronto/jtd-template" # for github-metadata
+url: "https://MDLutoronto.github.io/online-resources-build-topography-3d-models" # change the slug to the repo's name ('jtd-template' in this case)
+repository: "MDLutoronto/online-resources-build-topography-3d-models" # for github-metadata
 ## Navigation footer logos and links
 ## Change it only if you want to use different logos or links
 ## Logos should be placed in the /assets/images/ directory, or you can use an external image link
