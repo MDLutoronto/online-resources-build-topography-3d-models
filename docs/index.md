@@ -63,7 +63,7 @@ The Netherlands 10m interval contour map:
 
 **Digital Elevation Model (DEM) of Australia derived from LiDAR 5 Metre Grid**
 
-*([https://ecat-ga-gov-au.myaccess.library.utoronto.ca/geonetwork/srv/eng/…](https://ecat-ga-gov-au.myaccess.library.utoronto.ca/geonetwork/srv/eng/search#!22be4b55-2465-4320-e053-10a3070a5236))*
+*([https://ecat-ga-gov-au.myaccess.library.utoronto.ca/geonetwork/srv/eng/…](https://go.openathens.net/redirector/utoronto.ca?url=https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/22be4b55-2465-4320-e053-10a3070a5236))*
 
 **Note: An alternative way to obtain DEM data worldwide is using Global Mapper with its online source or the GEBCO (Bathymetry) data set available at the Map and Data library. Please contact the library for more details.**
 
@@ -135,7 +135,7 @@ To build the 3D model that can be properly rendered, further steps are necessary
 
 *With contour dwg files:*
 
-[*http://courses.washington.edu.myaccess.library.utoronto.ca/arch481/1.Tapestry%20Reader/6.How%20To/2.Rhino%20+%20V-Ray/TerrainModeling_Rhino.pdf*](http://courses.washington.edu.myaccess.library.utoronto.ca/arch481/1.Tapestry%20Reader/6.How%20To/2.Rhino%20+%20V-Ray/TerrainModeling_Rhino.pdf)
+[*http://courses.washington.edu.myaccess.library.utoronto.ca/arch481/1.Tapestry%20Reader/6.How%20To/2.Rhino%20+%20V-Ray/TerrainModeling_Rhino.pdf*](http://courses.washington.edu/arch481/1.Tapestry%20Reader/6.How%20To/2.Rhino%20+%20V-Ray/TerrainModeling_Rhino.pdf)
 
 *Pros and Cons of each option:*
 -------------------------------
@@ -162,4 +162,4 @@ To build the 3D model that can be properly rendered, further steps are necessary
 
 [*https://help.sketchup.com/en/article/3000135*](https://help.sketchup.com/en/article/3000135)
 
- [Create Topography 3D model with Global Mapper.pdf](/sites/default/public/Create%20Topography%203D%20model%20with%20Global%20Mapper_0.pdf)Discipline: [Architecture, Landscape & Design](/discipline/architecture-landscape-design) | Technique: [Searching for maps and data](/technique/searching-maps-and-data), [Converting data formats](/technique/converting-data-formats) | Tools: [ArcGIS](/tools/arcgis) | Data Format: [DEM](/data-format-tutorials/dem)
+ [Create Topography 3D model with Global Mapper.pdf](/sites/default/public/Create%20Topography%203D%20model%20with%20Global%20Mapper_0.pdf)Discipline: [Architecture, Landscape & Design](https://mdl.library.utoronto.ca/discipline/architecture-landscape-design) | Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data), [Converting data formats](https://mdl.library.utoronto.ca/technique/converting-data-formats) | Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis) | Data Format: [DEM](https://mdl.library.utoronto.ca/data-format-tutorials/dem)
