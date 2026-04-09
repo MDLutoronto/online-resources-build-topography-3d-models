@@ -162,4 +162,4 @@ To build the 3D model that can be properly rendered, further steps are necessary
 
 [*https://help.sketchup.com/en/article/3000135*](https://help.sketchup.com/en/article/3000135)
 
- [Create Topography 3D model with Global Mapper.pdf](/sites/default/public/Create%20Topography%203D%20model%20with%20Global%20Mapper_0.pdf)Discipline: [Architecture, Landscape & Design](https://mdl.library.utoronto.ca/discipline/architecture-landscape-design) | Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data), [Converting data formats](https://mdl.library.utoronto.ca/technique/converting-data-formats) | Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis) | Data Format: [DEM](https://mdl.library.utoronto.ca/data-format-tutorials/dem)
+ [Create Topography 3D model with Global Mapper.pdf](/sites/default/public/Create%20Topography%203D%20model%20with%20Global%20Mapper_0.pdf)
